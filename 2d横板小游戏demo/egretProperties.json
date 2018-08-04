@@ -1,0 +1,34 @@
+{
+  "engineVersion": "5.2.5",
+  "compilerVersion": "5.2.5",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "keyboard",
+      "path": "../keyboard/libsrc"
+    },
+    {
+      "name": "tiled",
+      "path": "../tiled/libsrc"
+    }
+  ]
+}

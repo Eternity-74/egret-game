@@ -1,0 +1,24 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/keyboard/keyboard.js",
+		"libs/modules/tiled/tiled.js"
+	],
+	"game": [
+		"bin-debug/enemy/Enemy.js",
+		"bin-debug/ui/bar.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/enemy/SlimeBlack.js",
+		"bin-debug/game/Map.js",
+		"bin-debug/game/Misaka.js",
+		"bin-debug/ui/hp.js",
+		"bin-debug/utils/GameUtil.js"
+	]
+}
